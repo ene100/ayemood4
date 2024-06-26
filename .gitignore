@@ -1,13 +1,1 @@
-# Ignore Firebase credentials
-firebase-credentials.json
-
-# Python specific ignores
-__pycache__/
-*.py[cod]
-*$py.class
-
-# Environment variables
-.env
-
-# Streamlit specific ignores
-.streamlit/
+ayemeter4-firebase-adminsdk-kooi0-dd377e6518.json
